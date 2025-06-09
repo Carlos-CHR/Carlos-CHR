@@ -16,7 +16,8 @@ Soy un desarrollador en formación con enfoque en la **resolución de problemas 
 - 🌱 **Aprendiendo**: backend, APIs, Git, SQL, desarrollo web y automatización  
 - 💡 **Intereses**: telecomunicaciones, software educativo, inteligencia artificial y redes  
 - 📫 **Contacto**: chrcarlosandresherreraredondo@gmail.com  
-- 🐦 **X (Twitter)**: [@CHRProgr](https://twitter.com/CHRProgr)
+- 🐦 **X (Twitter)**: [@CHRProgr](https://twitter.com/CHRProgr)  
+- 👽 **Reddit**: [u/Klutzy-Result510](https://www.reddit.com/user/Klutzy-Result510/)
 
 ---
 
@@ -50,9 +51,13 @@ Soy un desarrollador en formación con enfoque en la **resolución de problemas 
 <a href="https://twitter.com/CHRProgr">
   <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
 </a>
+<a href="https://www.reddit.com/user/Klutzy-Result510/">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+</a>
 
 ---
 
 <p align="center">
   <i>"La programación no es solo código, es creatividad hecha lógica."</i>
 </p>
+
